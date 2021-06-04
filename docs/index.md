@@ -1,7 +1,8 @@
 # 13 types of noise used for creating testing set in the experiment.
 ## Speech noise
 ### English talkers
-Noise type| audio file|
+
+Noise type| Audio file|
 --------------|-----| 
 1 female talker |
 1 male talker |
@@ -9,11 +10,13 @@ Noise type| audio file|
 2 female talkers  |
 2 male talkers  |
 ### Taiwanese talkers
-Noise type| audio file|
+Noise type| Audio file|
 --------------|-----| 
 2 male talkers |
 2 male and 1 female talker  |
+
 ## Nonspeech noise
+
 Noise type| audio file|
 --------------|-----| 
 Car|<audio src="https://eric-wang135.github.io/EMGSE/wav_files/IEMSE/Chinese_train_271.wav" controls="" preload=""></audio> |  <audio src="https://clalanliu.github.io/MCME_demo/wav_files/IEMSE2/Chinese_train_272.wav" controls="" preload=""></audio> |  
@@ -25,7 +28,7 @@ Street noise (2)|
 
 # Experimental Results 
 
-Source| utterance 1| utterance 2|
+Source| Utterance 1| Utterance 2|
 --------------|-----|-----|
 Clean|
 Noisy|
@@ -36,6 +39,7 @@ Enhanced(EMGSE 28ch)|
 
 ## Speech noise
 ### English Talkers
+
 Source| Noisy         | Utterance 19  |  Utterance 29  |
 --------------|-----|-----| -----|
 Clean|<audio src="https://eric-wang135.github.io/EMGSE/wav_files/IEMSE/Chinese_train_271.wav" controls="" preload=""></audio> |  <audio src="https://clalanliu.github.io/MCME_demo/wav_files/IEMSE2/Chinese_train_272.wav" controls="" preload=""></audio> |  
