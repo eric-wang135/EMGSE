@@ -1,11 +1,9 @@
 # Noise data for creating testing data.
-<div align="center">
-
 ## Speech noise
 
-</div>
-
 <p style="text-align: center;"> English talkers </p>
+
+<div align="center">
 
 Noise type| Audio file|
 --------------|-----| 
@@ -15,7 +13,7 @@ Noise type| Audio file|
 2 female talkers  |<audio src="Noise/F_2talkers.wav" controls="" preload=""></audio>|
 2 male talkers  |<audio src="Noise/M_2talkers.wav" controls="" preload=""></audio>|
   
-
+</div>
 
 <p style="text-align: center;"> Taiwanese talkers </p>
 
