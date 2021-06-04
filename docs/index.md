@@ -45,7 +45,7 @@ Enhanced(EMGSE 28ch)|
 
 Source| Noisy         | Utterance 19  |  Utterance 29  |
 --------------|-----|-----| -----|
-Clean|<audio src="https://eric-wang135.github.io/EMGSE/wav_files/IEMSE/Chinese_train_271.wav" controls="" preload=""></audio> | |  |
+Clean|<audio src="" controls="" preload=""></audio> | |  |
 Noisy|-----|-----| -----|
 Enhanced(Baseline)|-----|-----| -----|
 Enhanced(EMGSE)|-----|-----| -----|
