@@ -4,19 +4,19 @@
 
 Noise type| Audio file|
 --------------|-----| 
-1 female talker ||
-1 male talker ||
-1 male and 1 female talker  ||
-2 female talkers  ||
-2 male talkers  ||
+1 female talker |<audio src="https://eric-wang135.github.io/EMGSE/wav_files/IEMSE/Chinese_train_271.wav" controls="" preload=""></audio> |
+1 male talker |-----|
+1 male and 1 female talker  |-----|
+2 female talkers  |-----|
+2 male talkers  |-----|
 
 
 ### Taiwanese talkers
 
 Noise type| Audio file|
 --------------|----------| 
-2 male talkers ||
-2 male and 1 female talker  ||
+2 male talkers |<audio src="https://eric-wang135.github.io/EMGSE/wav_files/IEMSE/Chinese_train_271.wav" controls="" preload=""></audio> |
+2 male and 1 female talker  |-----|
 
 ## Nonspeech noise
 
