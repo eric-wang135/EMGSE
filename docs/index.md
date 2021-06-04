@@ -4,30 +4,30 @@
 
 Noise type| Audio file|
 --------------|-----| 
-1 female talker |<audio src="https://eric-wang135.github.io/EMGSE/wav_files/IEMSE/Chinese_train_271.wav" controls="" preload=""></audio> |
-1 male talker |<audio src="https://eric-wang135.github.io/EMGSE/wav_files/IEMSE/Chinese_train_271.wav" controls="" preload=""></audio>|
-1 male and 1 female talker  |<audio src="https://github.com/eric-wang135/EMGSE/blob/838ca0e127ae618d8914847cd7028f51feb02b4c/Noise/1M1F_2talkers.wav" controls="" preload=""></audio>|
-2 female talkers  |<audio src="https://eric-wang135.github.io/EMGSE/wav_files/IEMSE/Chinese_train_271.wav" controls="" preload=""></audio>|
-2 male talkers  |<audio src="https://eric-wang135.github.io/EMGSE/wav_files/IEMSE/Chinese_train_271.wav" controls="" preload=""></audio>|
+1 female talker |<audio src="/Noise/F_1talker.wav" controls="" preload=""></audio> |
+1 male talker |<audio src="/Noise/M_1talker.wav" controls="" preload=""></audio>|
+1 male and 1 female talker  |<audio src="/Noise/1M1F_2talkers.wav" controls="" preload=""></audio>|
+2 female talkers  |<audio src="/Noise/F_2talkers.wav" controls="" preload=""></audio>|
+2 male talkers  |<audio src="/Noise/M_2talkers.wav" controls="" preload=""></audio>|
 
 
 ### Taiwanese talkers
 
 Noise type| Audio file|
 --------------|----------| 
-2 male talkers | <audio src="M_2talkers.wav" controls="" preload=""></audio> |
-2 male and 1 female talker  | <audio src = "https://github.com/eric-wang135/EMGSE.github.io/blob/main/Noise/1M1F_2talkers.wav?raw=true" controls="" preload=""></audio>|
+2 male talkers | <audio src="/Noise/Taiwanese_M_2talkers.wav" controls="" preload=""></audio> |
+2 male and 1 female talker  | <audio src = "/Noise/Taiwanese_2M1F_3talkers.wav" controls="" preload=""></audio>|
 
 ## Nonspeech noise
 
 Noise type| audio file|
 --------------|-----| 
-Car|<audio src="" controls="" preload=""></audio> |   
-Engine|<audio src="https://clalanliu.github.io/MCME_demo/wav_files/IEMSE2/Chinese_train_272.wav" controls="" preload=""></audio>|
-Pink||
-White||
-Street noise (1)||
-Street noise (2)||
+Car|<audio src="/Noise/car noise.wav" controls="" preload=""></audio> |   
+Engine|<audio src="/Noise/engine noise.wav" controls="" preload=""></audio>|
+Pink|<audio src="/Noise/pink noise.wav" controls="" preload=""></audio>|
+White|<audio src="/Noise/white noise.wav" controls="" preload=""></audio>|
+Street noise (1)|<audio src="/Noise/street noise(1).wav" controls="" preload=""></audio>|
+Street noise (2)|<audio src="/Noise/street noise(2).wav" controls="" preload=""></audio>|
 
 # Experimental Results 
 
