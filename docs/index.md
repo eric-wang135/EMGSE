@@ -2,8 +2,6 @@
 13 types of noise are used to create testing data. 6 of them are nonspeech noise and 7 are speech noise.
 
 ## Speech noise
-
-
 ### English talkers
 
 Noise type| Audio file|
@@ -13,9 +11,7 @@ Noise type| Audio file|
 1 male and 1 female talker  |<audio src="Noise/1M1F_2talkers.wav" controls="" preload=""></audio>|
 2 female talkers  |<audio src="Noise/F_2talkers.wav" controls="" preload=""></audio>|
 2 male talkers  |<audio src="Noise/M_2talkers.wav" controls="" preload=""></audio>|
-  
-<div align="center"></div>
-<p style="text-align: center;"> </p>
+ 
 
 ### Taiwanese talkers 
 
@@ -66,5 +62,7 @@ Enhanced(EMGSE 28ch)|-----|-----| -----|
 ### White noise
 
 
-
+ 
+<div align="center"></div>
+<p style="text-align: center;"> </p>
 
