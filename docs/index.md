@@ -1,12 +1,12 @@
-# 13 Noise
-13 types of noise are used to create testing data. 7 of them are speech noise and the rest are nonspeech noise. 
+# Noise data
+13 types of noise are used to create EMGSE testing data. 7 of them are speech noise and the rest are nonspeech noise. 
 
 ## Speech noise
 Speech noise with Mandarine and English is used.
 ### English talkers
 
 Noise type| Audio file|
---------------|-----| 
+--------------|------| 
 1 female talker |<audio src="Noise/F_1talker.wav" controls="" preload=""></audio> |
 1 male talker |<audio src="Noise/M_1talker.wav" controls="" preload=""></audio>|
 1 male and 1 female talker  |<audio src="Noise/1M1F_2talkers.wav" controls="" preload=""></audio>|
@@ -17,7 +17,7 @@ Noise type| Audio file|
 ### Taiwanese talkers 
 
 Noise type| Audio file|
---------------|----------| 
+------------|--------| 
 2 male talkers | <audio src="Noise/Taiwanese_M_2talkers.wav" controls="" preload=""></audio> |
 2 male and 1 female talker | <audio src = "Noise/Taiwanese_2M1F_3talkers.wav" controls="" preload=""></audio>|
 
@@ -37,8 +37,8 @@ Street noise (2)|<audio src="Noise/street noise(2).wav" controls="" preload=""><
 ## Performance in SNR level -11dB and 4dB
 Source| Utterance 1| Utterance 2|
 --------------|-----|-----|
-Clean|
-Noisy|
+Clean |
+Noisy |
 Enhanced(Baseline)|
 Enhanced(EMGSE)|
 Enhanced(EMGSE 28ch)|
@@ -52,7 +52,7 @@ Enhanced(Baseline)|
 Enhanced(EMGSE)|
 Enhanced(EMGSE 28ch)|
 
-## The phenomenon of missing syllables due to EMG
+## The phenomenon of missing syllables in EMGSE
 Source| Utterance 1| Utterance 2|
 --------------|-----|-----|
 Clean|
