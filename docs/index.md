@@ -1,25 +1,28 @@
 # Noise data for creating testing data.
+<div align="center">
+
 ## Speech noise
+
+</div>
+
 <p style="text-align: center;"> English talkers </p>
 
-
-  
-|Noise type| Audio file|
-|--------------|-----| 
-|1 female talker |<audio src="Noise/F_1talker.wav" controls="" preload=""></audio> |
-|1 male talker |<audio src="Noise/M_1talker.wav" controls="" preload=""></audio>|
-|1 male and 1 female talker  |<audio src="Noise/1M1F_2talkers.wav" controls="" preload=""></audio>|
-|2 female talkers  |<audio src="Noise/F_2talkers.wav" controls="" preload=""></audio>|
-|2 male talkers  |<audio src="Noise/M_2talkers.wav" controls="" preload=""></audio>|
+Noise type| Audio file|
+--------------|-----| 
+1 female talker |<audio src="Noise/F_1talker.wav" controls="" preload=""></audio> |
+1 male talker |<audio src="Noise/M_1talker.wav" controls="" preload=""></audio>|
+1 male and 1 female talker  |<audio src="Noise/1M1F_2talkers.wav" controls="" preload=""></audio>|
+2 female talkers  |<audio src="Noise/F_2talkers.wav" controls="" preload=""></audio>|
+2 male talkers  |<audio src="Noise/M_2talkers.wav" controls="" preload=""></audio>|
   
 
 
 <p style="text-align: center;"> Taiwanese talkers </p>
 
-|Noise type| Audio file|
-|--------------|----------| 
-|2 male talkers | <audio src="Noise/Taiwanese_M_2talkers.wav" controls="" preload=""></audio> |
-|2 male and 1 female talker | <audio src = "Noise/Taiwanese_2M1F_3talkers.wav" controls="" preload=""></audio>|
+Noise type| Audio file|
+--------------|----------| 
+2 male talkers | <audio src="Noise/Taiwanese_M_2talkers.wav" controls="" preload=""></audio> |
+2 male and 1 female talker | <audio src = "Noise/Taiwanese_2M1F_3talkers.wav" controls="" preload=""></audio>|
 
 ## Nonspeech noise
 
