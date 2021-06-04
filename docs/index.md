@@ -2,7 +2,7 @@
 ## Speech noise
 <p style="text-align: center;"> English talkers </p>
 
-<center>
+
   
 |Noise type| Audio file|
 |--------------|-----| 
@@ -12,13 +12,14 @@
 |2 female talkers  |<audio src="Noise/F_2talkers.wav" controls="" preload=""></audio>|
 |2 male talkers  |<audio src="Noise/M_2talkers.wav" controls="" preload=""></audio>|
   
-</center>
+
 
 <p style="text-align: center;"> Taiwanese talkers </p>
-Noise type| Audio file|
---------------|----------| 
-2 male talkers | <audio src="Noise/Taiwanese_M_2talkers.wav" controls="" preload=""></audio> |
-2 male and 1 female talker  | <audio src = "Noise/Taiwanese_2M1F_3talkers.wav" controls="" preload=""></audio>|
+
+|Noise type| Audio file|
+|--------------|----------| 
+|2 male talkers | <audio src="Noise/Taiwanese_M_2talkers.wav" controls="" preload=""></audio> |
+|2 male and 1 female talker | <audio src = "Noise/Taiwanese_2M1F_3talkers.wav" controls="" preload=""></audio>|
 
 ## Nonspeech noise
 
