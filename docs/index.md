@@ -15,14 +15,14 @@ Noise type| Audio file|
 
 Noise type| Audio file|
 --------------|----------| 
-2 male talkers | <audio src="https://github.com/eric-wang135/EMGSE.github.io/blob/main/Noise/1M1F_2talkers.wav?raw=true" controls="" preload=""></audio> |
+2 male talkers | <audio src="M_2talkers.wav" controls="" preload=""></audio> |
 2 male and 1 female talker  | <audio src = "https://github.com/eric-wang135/EMGSE.github.io/blob/main/Noise/1M1F_2talkers.wav?raw=true" controls="" preload=""></audio>|
 
 ## Nonspeech noise
 
 Noise type| audio file|
 --------------|-----| 
-Car|<audio src="https://eric-wang135.github.io/EMGSE/wav_files/IEMSE/Chinese_train_271.wav" controls="" preload=""></audio> |   
+Car|<audio src="" controls="" preload=""></audio> |   
 Engine|<audio src="https://clalanliu.github.io/MCME_demo/wav_files/IEMSE2/Chinese_train_272.wav" controls="" preload=""></audio>|
 Pink||
 White||
