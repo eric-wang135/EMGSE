@@ -1,7 +1,8 @@
 # 13 Noise
-13 types of noise are used to create testing data. 6 of them are nonspeech noise and 7 are speech noise.
+13 types of noise are used to create testing data. 7 of them are speech noise and the rest are nonspeech noise. 
 
 ## Speech noise
+Speech noise with Mandarine and English is used.
 ### English talkers
 
 Noise type| Audio file|
@@ -33,6 +34,7 @@ Street noise (2)|<audio src="Noise/street noise(2).wav" controls="" preload=""><
 
 # Experimental Results 
 
+## Performance in SNR level -11dB and 4dB
 Source| Utterance 1| Utterance 2|
 --------------|-----|-----|
 Clean|
@@ -41,25 +43,23 @@ Enhanced(Baseline)|
 Enhanced(EMGSE)|
 Enhanced(EMGSE 28ch)|
 
+## Performance in speech and nonspeech noise
+Source| Utterance 1| Utterance 2|
+--------------|-----|-----|
+Clean|
+Noisy|
+Enhanced(Baseline)|
+Enhanced(EMGSE)|
+Enhanced(EMGSE 28ch)|
 
-## Speech noise
-### English Talkers
+## The phenomenon of missing syllables due to EMG
+Source| Utterance 1| Utterance 2|
+--------------|-----|-----|
+Clean|
+Noisy|
+Enhanced(Baseline)|
+Enhanced(EMGSE)|
 
-Source| Noisy         | Utterance 19  |  Utterance 29  |
---------------|-----|-----| -----|
-Clean|<audio src="" controls="" preload=""></audio> | |  |
-Noisy|-----|-----| -----|
-Enhanced(Baseline)|-----|-----| -----|
-Enhanced(EMGSE)|-----|-----| -----|
-Enhanced(EMGSE 28ch)|-----|-----| -----|
-
-
-### Taiwanese Talkers
-## Nonspeech noise
-### Car noise
-### Engine noise
-### Pink noise
-### White noise
 
 
  
