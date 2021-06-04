@@ -2,7 +2,7 @@
 13 types of noise are used to create testing data. 6 of them are nonspeech noise and 7 are speech noise.
 
 ## Speech noise
-<p style="text-align: center;"></p>
+
 
 ### English talkers
 
