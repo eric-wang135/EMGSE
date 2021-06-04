@@ -5,18 +5,18 @@
 Noise type| Audio file|
 --------------|-----| 
 1 female talker |<audio src="https://eric-wang135.github.io/EMGSE/wav_files/IEMSE/Chinese_train_271.wav" controls="" preload=""></audio> |
-1 male talker |-----|
-1 male and 1 female talker  |-----|
-2 female talkers  |-----|
-2 male talkers  |-----|
+1 male talker |<audio src="https://eric-wang135.github.io/EMGSE/wav_files/IEMSE/Chinese_train_271.wav" controls="" preload=""></audio>|
+1 male and 1 female talker  |<audio src="https://github.com/eric-wang135/EMGSE/blob/838ca0e127ae618d8914847cd7028f51feb02b4c/Noise/1M1F_2talkers.wav" controls="" preload=""></audio>|
+2 female talkers  |<audio src="https://eric-wang135.github.io/EMGSE/wav_files/IEMSE/Chinese_train_271.wav" controls="" preload=""></audio>|
+2 male talkers  |<audio src="https://eric-wang135.github.io/EMGSE/wav_files/IEMSE/Chinese_train_271.wav" controls="" preload=""></audio>|
 
 
 ### Taiwanese talkers
 
 Noise type| Audio file|
 --------------|----------| 
-2 male talkers |<audio src="https://eric-wang135.github.io/EMGSE/wav_files/IEMSE/Chinese_train_271.wav" controls="" preload=""></audio> |
-2 male and 1 female talker  |-----|
+2 male talkers |<audio src="https://github.com/eric-wang135/EMGSE/blob/838ca0e127ae618d8914847cd7028f51feb02b4c/Noise/Taiwanese_M_2talkers.wav" controls="" preload=""></audio> |
+2 male and 1 female talker  |<audio src = "https://github.com/eric-wang135/EMGSE/blob/838ca0e127ae618d8914847cd7028f51feb02b4c/Noise/Taiwanese_2M1F_3talkers.wav" controls="" preload=""</audio>|
 
 ## Nonspeech noise
 
