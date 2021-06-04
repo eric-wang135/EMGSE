@@ -15,7 +15,7 @@ Noise type| Audio file|
 
 Noise type| Audio file|
 --------------|----------| 
-2 male talkers | <audio src="Noise/Taiwanese_2M1F_3talkers.wav" controls="" preload=""></audio> |
+2 male talkers | <audio src="https://github.com/eric-wang135/EMGSE.github.io/blob/main/Noise/1M1F_2talkers.wav?raw=true" controls="" preload=""></audio> |
 2 male and 1 female talker  | <audio src = "https://github.com/eric-wang135/EMGSE.github.io/blob/main/Noise/1M1F_2talkers.wav?raw=true" controls="" preload=""></audio>|
 
 ## Nonspeech noise
