@@ -1,6 +1,6 @@
 # 13 types of noise used for creating testing set in the experiment.
 ## Speech noise
-### English talkers
+<p style="text-align: center;"> English talkers </p>
 
 Noise type| Audio file|
 --------------|-----| 
@@ -11,8 +11,7 @@ Noise type| Audio file|
 2 male talkers  |<audio src="Noise/M_2talkers.wav" controls="" preload=""></audio>|
 
 
-### Taiwanese talkers
-
+<p style="text-align: center;"> Taiwanese talkers </p>
 Noise type| Audio file|
 --------------|----------| 
 2 male talkers | <audio src="Noise/Taiwanese_M_2talkers.wav" controls="" preload=""></audio> |
