@@ -58,17 +58,11 @@ Noise type   : Street noise (2) (nonspeech noise)
 
    Source      |      SNR -11dB     |       SNR 4dB     |
 --------------|-----|-----|
-Ground truth |<audio src="wavfile/utter40/Spk5_Block1-Initial_0040.wav" controls="" preload=""></audio><img src="wavfile/utter40/street/Noisy/Spk5_Block1-Initial_0040_street_-11.png" alt="street_noisy_-11">|<audio src="wavfile/utter40/Spk5_Block1-Initial_0040.wav" controls="" preload=""></audio><img src="wavfile/utter40/street/Noisy/Spk5_Block1-Initial_0040_street_4.png" alt="street_noisy_4">|
-Noisy |<audio src="wavfile/utter40/street/Spk5_Block1-Initial_0040_street_-11.wav" controls="" preload=""></audio>|<audio src="wavfile/utter40/street/Spk5_Block1-Initial_0040_street_4.wav" controls="" preload=""></audio>|
-Enhanced(Baseline)|<audio src="wavfile/utter40/street/baseline/Spk5_Block1-Initial_0040_enh_base_street_-11.wav" controls="" preload=""></audio>|<audio src="wavfile/utter40/street/baseline/Spk5_Block1-Initial_0040_enh_base_street_4.wav" controls="" preload=""></audio>|
-Enhanced(EMGSE)|<audio src="wavfile/utter40/street/EMGSE/Spk5_Block1-Initial_0040_enh_emgse_street_-11.wav" controls="" preload=""></audio>|<audio src="wavfile/utter40/street/EMGSE/Spk5_Block1-Initial_0040_enh_emgse_street_4.wav" controls="" preload=""></audio>|
-Enhanced(EMGSE 28ch)|<audio src="wavfile/utter40/street/EMGSE28/Spk5_Block1-Initial_0040_enh_emgse28_street_-11.wav" controls="" preload=""></audio>|<audio src="wavfile/utter40/street/EMGSE28/Spk5_Block1-Initial_0040_enh_emgse28_street_4.wav" controls="" preload=""></audio>|
-
-![street_Noisy_-11](wavfile/utter40/street/Noisy/Spk5_Block1-Initial_0040_street_-11.png")
-
-
-
-![street_Noisy_4](wavfile/utter40/street/Noisy/Spk5_Block1-Initial_0040_street_4.png")
+Ground truth |<audio src="wavfile/utter40/Spk5_Block1-Initial_0040.wav" controls="" preload=""></audio><img src="wavfile/utter40/Spk5_Block1-Initial_0040.png" alt="40_clean">|<audio src="wavfile/utter40/Spk5_Block1-Initial_0040.wav" controls="" preload=""></audio><img src="wavfile/utter40/Spk5_Block1-Initial_0040.png" alt="40_clean">|
+Noisy |<audio src="wavfile/utter40/street/Noisy/Spk5_Block1-Initial_0040_street_-11.wav" controls="" preload=""></audio><img src="wavfile/utter40/street/Noisy/Spk5_Block1-Initial_0040_street_-11.png" alt="40_street_noisy_-11">|<audio src="wavfile/utter40/street/Noisy/Spk5_Block1-Initial_0040_street_4.wav" controls="" preload=""></audio><img src="wavfile/utter40/street/Noisy/Spk5_Block1-Initial_0040_street_4.png" alt="40_street_noisy_4">|
+Enhanced(Baseline)|<audio src="wavfile/utter40/street/baseline/Spk5_Block1-Initial_0040_enh_base_street_-11.wav" controls="" preload=""></audio><img src="wavfile/utter40/street/baseline/Spk5_Block1-Initial_0040_enh_base_street_-11.png" alt="">|<audio src="wavfile/utter40/street/baseline/Spk5_Block1-Initial_0040_enh_base_street_4.wav" controls="" preload=""></audio><img src="wavfile/utter40/street/baseline/Spk5_Block1-Initial_0040_enh_base_street_4.png" alt="">|
+Enhanced(EMGSE)|<audio src="wavfile/utter40/street/EMGSE/Spk5_Block1-Initial_0040_enh_emgse_street_-11.wav" controls="" preload=""></audio>|<audio src="wavfile/utter40/street/EMGSE/Spk5_Block1-Initial_0040_enh_emgse_street_-11.png" controls="" preload=""></audio>|
+Enhanced(EMGSE 28ch)|<audio src="wavfile/utter40/street/EMGSE28/Spk5_Block1-Initial_0040_enh_emgse28_street_-11.wav" controls="" preload=""></audio><img src="wavfile/utter40/street/EMGSE28/Spk5_Block1-Initial_0040_enh_emgse28_street_-11.png" alt="">|<audio src="wavfile/utter40/street/EMGSE28/Spk5_Block1-Initial_0040_enh_emgse28_street_4.wav" controls="" preload=""></audio><img src="wavfile/utter40/street/EMGSE28/Spk5_Block1-Initial_0040_enh_emgse28_street_4.png" alt="">|
 
 ## The phenomenon of missing syllables in EMGSE
 
