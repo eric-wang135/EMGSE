@@ -65,6 +65,9 @@ Enhanced(EMGSE)|<audio src="wavfile/utter40/street/EMGSE/Spk5_Block1-Initial_004
 Enhanced(EMGSE 28ch)|<audio src="wavfile/utter40/street/EMGSE28/Spk5_Block1-Initial_0040_enh_emgse28_street_-11.wav" controls="" preload=""></audio>|<audio src="wavfile/utter40/street/EMGSE28/Spk5_Block1-Initial_0040_enh_emgse28_street_4.wav" controls="" preload=""></audio>|
 
 ![street_Noisy_-11](wavfile/utter40/street/Noisy/Spk5_Block1-Initial_0040_street_-11.png")
+
+<img src="wavfile/utter40/street/Noisy/Spk5_Block1-Initial_0040_street_-11.png" alt="Street noisy -11">
+
 ![street_Noisy_4](wavfile/utter40/street/Noisy/Spk5_Block1-Initial_0040_street_4.png")
 
 ## The phenomenon of missing syllables in EMGSE
