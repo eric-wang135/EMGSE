@@ -23,7 +23,7 @@ Noise type| Audio file|
 
 ## Nonspeech noise
 
-Noise type| audio file|
+Noise type| Audio file|
 --------------|-----| 
 Car|<audio src="Noise/car noise.wav" controls="" preload=""></audio> |   
 Engine|<audio src="Noise/engine noise.wav" controls="" preload=""></audio>|
@@ -34,10 +34,11 @@ Street noise (2)|<audio src="Noise/street noise(2).wav" controls="" preload=""><
 
 # Experimental Results 
 
-## SE Performance in SNR level -11dB and 4dB
+## SE Performance of EMGSE and baseline
 
-Utterance 40: "You can see the rain curtains are wrapping."
-Noise type : 1 English male talkers (speech noise)
+Utterance 40  : "You can see the rain curtains are wrapping."
+Speaker       : number 5, male
+Noise type    : 1 English male talker (speech noise)
 
 Source|  SNR -11dB| SNR 4dB|
 --------------|-----|-----|
@@ -47,15 +48,16 @@ Enhanced(Baseline)|
 Enhanced(EMGSE)|
 Enhanced(EMGSE 28ch)|
 
-Utterance 40: "You can see the rain curtains are wrapping."
-Noise type : Street noise (2) (nonspeech noise)
+Utterance 40 : "You can see the rain curtains are wrapping."
+Speaker      : number 5, male
+Noise type   : Street noise (2) (nonspeech noise)
 
-Source|  SNR -11dB| SNR 4dB|
+   Source      |      SNR -11dB     |       SNR 4dB     |
 --------------|-----|-----|
 Ground truth |<audio src="wavfile/utter40/Spk5_Block1-Initial_0040.wav" controls="" preload=""></audio>|<audio src="wavfile/utter40/Spk5_Block1-Initial_0040.wav" controls="" preload=""></audio>|
-Noisy |<audio src="wavfile/utter40/Spk5_Block1-Initial_0040_street_-11.wav" controls="" preload=""></audio>|<audio src="wavfile/utter40/Spk5_Block1-Initial_0040_street_4.wav" controls="" preload=""></audio>|
-Enhanced(Baseline)|
-Enhanced(EMGSE)|
+Noisy |<audio src="wavfile/utter40/street/Spk5_Block1-Initial_0040_street_-11.wav" controls="" preload=""></audio>|<audio src="wavfile/utter40/street/Spk5_Block1-Initial_0040_street_4.wav" controls="" preload=""></audio>|
+Enhanced(Baseline)|<audio src="wavfile/utter40/street/baseline/Spk5_Block1-Initial_0040_enh_base_street_-11.wav" controls="" preload=""></audio>|<audio src="wavfile/utter40/street/Spk5_Block1-Initial_0040_enh_base_street_4.wav" controls="" preload=""></audio>|
+Enhanced(EMGSE)|<audio src="wavfile/utter40/street/EMGSE/Spk5_Block1-Initial_0040_enh_emgse_street_-11.wav" controls="" preload=""></audio>|<audio src="wavfile/utter40/street/EMGSE/Spk5_Block1-Initial_0040_enh_emgse_street_4.wav" controls="" preload=""></audio>|
 Enhanced(EMGSE 28ch)|
 
 
