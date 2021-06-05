@@ -34,28 +34,41 @@ Street noise (2)|<audio src="Noise/street noise(2).wav" controls="" preload=""><
 
 # Experimental Results 
 
-## Performance in SNR level -11dB and 4dB
-Source| Utterance 1| Utterance 2|
+## SE Performance in SNR level -11dB and 4dB
+
+Utterance 40: "You can see the rain curtains are wrapping."
+Noise type : 1 English male talkers (speech noise)
+
+Source|  SNR -11dB| SNR 4dB|
 --------------|-----|-----|
-Clean |
+Ground truth |<audio src="Noise/car noise.wav" controls="" preload=""></audio>|<audio src="Noise/car noise.wav" controls="" preload=""></audio>|
 Noisy |
 Enhanced(Baseline)|
 Enhanced(EMGSE)|
 Enhanced(EMGSE 28ch)|
 
-## Performance in speech and nonspeech noise
-Source| Utterance 1| Utterance 2|
+Utterance 40: "You can see the rain curtains are wrapping."
+Noise type : Street noise (2) (nonspeech noise)
+
+Source|  SNR -11dB| SNR 4dB|
 --------------|-----|-----|
-Clean|
-Noisy|
+Ground truth |<audio src="wavfile/utter40/Spk5_Block1-Initial_0040.wav" controls="" preload=""></audio>|<audio src="wavfile/utter40/Spk5_Block1-Initial_0040.wav" controls="" preload=""></audio>|
+Noisy |<audio src="wavfile/utter40/Spk5_Block1-Initial_0040_street_-11.wav" controls="" preload=""></audio>|<audio src="wavfile/utter40/Spk5_Block1-Initial_0040_street_4.wav" controls="" preload=""></audio>|
 Enhanced(Baseline)|
 Enhanced(EMGSE)|
 Enhanced(EMGSE 28ch)|
 
+
 ## The phenomenon of missing syllables in EMGSE
-Source| Utterance 1| Utterance 2|
+
+Noise type : Car noise
+Utterance 19: "You can see the rain curtains are wrapping."
+Utterance 29: "You can see the rain curtains are wrapping."
+
+
+Source| Utterance 19| Utterance 29|
 --------------|-----|-----|
-Clean|
+Ground truth|
 Noisy|
 Enhanced(Baseline)|
 Enhanced(EMGSE)|
