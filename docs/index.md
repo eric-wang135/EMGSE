@@ -62,7 +62,7 @@ Ground truth |<audio src="wavfile/utter40/Spk5_Block1-Initial_0040.wav" controls
 Noisy |<audio src="wavfile/utter40/street/Spk5_Block1-Initial_0040_street_-11.wav" controls="" preload=""></audio>|<audio src="wavfile/utter40/street/Spk5_Block1-Initial_0040_street_4.wav" controls="" preload=""></audio>|
 Enhanced(Baseline)|<audio src="wavfile/utter40/street/baseline/Spk5_Block1-Initial_0040_enh_base_street_-11.wav" controls="" preload=""></audio>|<audio src="wavfile/utter40/street/baseline/Spk5_Block1-Initial_0040_enh_base_street_4.wav" controls="" preload=""></audio>|
 Enhanced(EMGSE)|<audio src="wavfile/utter40/street/EMGSE/Spk5_Block1-Initial_0040_enh_emgse_street_-11.wav" controls="" preload=""></audio>|<audio src="wavfile/utter40/street/EMGSE/Spk5_Block1-Initial_0040_enh_emgse_street_4.wav" controls="" preload=""></audio>|
-Enhanced(EMGSE 28ch)|
+Enhanced(EMGSE 28ch)|<audio src="wavfile/utter40/street/EMGSE28/Spk5_Block1-Initial_0040_enh_emgse28_street_-11.wav" controls="" preload=""></audio>|<audio src="wavfile/utter40/street/EMGSE28/Spk5_Block1-Initial_0040_enh_emgse28_street_4.wav" controls="" preload=""></audio>|
 
 
 ## The phenomenon of missing syllables in EMGSE
