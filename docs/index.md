@@ -2,7 +2,7 @@
 18 types of noise are used to create EMGSE testing data. 12 of them are speech noise and the rest are nonspeech noise. 
 
 ## Speech noise
-Speech noise of Chinese and English is used.
+Chinese and English speech noises are used.
 
 Noise type| Audio file (Chinese)| Audio file(English)|
 --------------|------| -----|
