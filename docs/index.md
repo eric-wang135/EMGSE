@@ -1,36 +1,42 @@
 # Noise data
-13 types of noise are used to create EMGSE testing data. 7 of them are speech noise and the rest are nonspeech noise. 
+18 types of noise are used to create EMGSE testing data. 12 of them are speech noise and the rest are nonspeech noise. 
 
 ## Speech noise
 Speech noise with Mandarine and English is used.
-### English talkers
+
+### Chinese speech noise
 
 Noise type| Audio file|
 --------------|------| 
-1 female talker |<audio src="Noise/F_1talker.wav" controls="" preload=""></audio> |
-1 male talker |<audio src="Noise/M_1talker.wav" controls="" preload=""></audio>|
-1 male and 1 female talker  |<audio src="Noise/1M1F_2talkers.wav" controls="" preload=""></audio>|
-2 female talkers  |<audio src="Noise/F_2talkers.wav" controls="" preload=""></audio>|
-2 male talkers  |<audio src="Noise/M_2talkers.wav" controls="" preload=""></audio>|
+1 female talker |<audio src="noise/one_female_chinese.wav" controls="" preload=""></audio> |
+1 male talker |<audio src="noise/one_male_chinese.wav" controls="" preload=""></audio>|
+1 female and 1 male talkers  |<audio src="noise/one_female_one_male_chinese.wav" controls="" preload=""></audio>|
+2 female talkers  |<audio src="noise/two_female_chinese.wav" controls="" preload=""></audio>|
+2 male talkers  |<audio src="noise/two_female_chinese.wav" controls="" preload=""></audio>|
+2 male and 1 female talkers  |<audio src="noise/two_male_one_female_chinese.wav" controls="" preload=""></audio>|
  
 
-### Taiwanese talkers 
+### English speech noise
 
 Noise type| Audio file|
 ------------|--------| 
-2 male talkers | <audio src="Noise/Taiwanese_M_2talkers.wav" controls="" preload=""></audio> |
-2 male and 1 female talker | <audio src = "Noise/Taiwanese_2M1F_3talkers.wav" controls="" preload=""></audio>|
+1 female talker |<audio src="noise/one_female_english.wav" controls="" preload=""></audio> |
+1 male talker |<audio src="noise/one_male_english.wav" controls="" preload=""></audio>|
+1 female and 1 male talkers  |<audio src="noise/one_female_one_male_english.wav" controls="" preload=""></audio>|
+2 female talkers  |<audio src="noise/two_female_english.wav" controls="" preload=""></audio>|
+2 male talkers  |<audio src="noise/two_female_english.wav" controls="" preload=""></audio>|
+2 male and 1 female talkers  |<audio src="noise/two_male_one_female_english.wav" controls="" preload=""></audio>|
 
 ## Nonspeech noise
 
 Noise type| Audio file|
 --------------|-----| 
-Car|<audio src="Noise/car noise.wav" controls="" preload=""></audio> |   
-Engine|<audio src="Noise/engine noise.wav" controls="" preload=""></audio>|
-Pink|<audio src="Noise/pink noise.wav" controls="" preload=""></audio>|
-White|<audio src="Noise/white noise.wav" controls="" preload=""></audio>|
-Street noise (1)|<audio src="Noise/street noise(1).wav" controls="" preload=""></audio>|
-Street noise (2)|<audio src="Noise/street noise(2).wav" controls="" preload=""></audio>|
+Car|<audio src="noise/car noise.wav" controls="" preload=""></audio> |   
+Engine|<audio src="noise/engine noise.wav" controls="" preload=""></audio>|
+Pink|<audio src="noise/pink noise.wav" controls="" preload=""></audio>|
+White|<audio src="noise/white noise.wav" controls="" preload=""></audio>|
+Street noise (1)|<audio src="noise/street noise(1).wav" controls="" preload=""></audio>|
+Street noise (2)|<audio src="noise/street noise(2).wav" controls="" preload=""></audio>|
 
 # Experimental Results 
 
@@ -66,10 +72,13 @@ Enhanced(EMGSE 28ch)|<audio src="wavfile/utter40/street/EMGSE28/Spk5_Block1-Init
 
 ## The phenomenon of missing syllables in EMGSE
 
-Noise type : Car noise
 Utterance 19: "You can see the rain curtains are wrapping."
+
 Utterance 29: "You can see the rain curtains are wrapping."
 
+Speaker      : number 5, male
+
+Noise type : Car noise
 
 Source| Utterance 19| Utterance 29|
 --------------|-----|-----|
