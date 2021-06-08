@@ -17,10 +17,10 @@ Noise type| Audio file (Chinese)| Audio file(English)|
 
 Noise type| Audio file|
 --------------|-----| 
-Car|<audio src="noise/car noise.wav" controls="" preload=""></audio> |   
-Engine|<audio src="noise/engine noise.wav" controls="" preload=""></audio>|
-Pink|<audio src="noise/pink noise.wav" controls="" preload=""></audio>|
-White|<audio src="noise/white noise.wav" controls="" preload=""></audio>|
+Car noise|<audio src="noise/car noise.wav" controls="" preload=""></audio> |   
+Pink noise|<audio src="noise/pink noise.wav" controls="" preload=""></audio>|
+White noise|<audio src="noise/white noise.wav" controls="" preload=""></audio>|
+Engine noise|<audio src="noise/engine noise.wav" controls="" preload=""></audio>|
 Street noise (1)|<audio src="noise/street noise(1).wav" controls="" preload=""></audio>|
 Street noise (2)|<audio src="noise/street noise(2).wav" controls="" preload=""></audio>|
 
