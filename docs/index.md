@@ -8,24 +8,24 @@ Speech noise with Mandarine and English is used.
 
 Noise type| Audio file|
 --------------|------| 
-1 female talker |<audio src="noise/one_female_chinese.wav" controls="" preload=""></audio> |
-1 male talker |<audio src="noise/one_male_chinese.wav" controls="" preload=""></audio>|
-1 female and 1 male talkers  |<audio src="noise/one_female_one_male_chinese.wav" controls="" preload=""></audio>|
-2 female talkers  |<audio src="noise/two_female_chinese.wav" controls="" preload=""></audio>|
-2 male talkers  |<audio src="noise/two_female_chinese.wav" controls="" preload=""></audio>|
-2 male and 1 female talkers  |<audio src="noise/two_male_one_female_chinese.wav" controls="" preload=""></audio>|
+1 female talker |<audio src="noise/Chinese speech noise/one_female_chinese.wav" controls="" preload=""></audio> |
+1 male talker |<audio src="noise/Chinese speech noise/one_male_chinese.wav" controls="" preload=""></audio>|
+1 female and 1 male talkers  |<audio src="noise/Chinese speech noise/one_female_one_male_chinese.wav" controls="" preload=""></audio>|
+2 female talkers  |<audio src="noise/Chinese speech noise/two_female_chinese.wav" controls="" preload=""></audio>|
+2 male talkers  |<audio src="noise/Chinese speech noise/two_female_chinese.wav" controls="" preload=""></audio>|
+2 male and 1 female talkers  |<audio src="noise/Chinese speech noise/two_male_one_female_chinese.wav" controls="" preload=""></audio>|
  
 
 ### English speech noise
 
 Noise type| Audio file|
 ------------|--------| 
-1 female talker |<audio src="noise/one_female_english.wav" controls="" preload=""></audio> |
-1 male talker |<audio src="noise/one_male_english.wav" controls="" preload=""></audio>|
-1 female and 1 male talkers  |<audio src="noise/one_female_one_male_english.wav" controls="" preload=""></audio>|
-2 female talkers  |<audio src="noise/two_female_english.wav" controls="" preload=""></audio>|
-2 male talkers  |<audio src="noise/two_female_english.wav" controls="" preload=""></audio>|
-2 male and 1 female talkers  |<audio src="noise/two_male_one_female_english.wav" controls="" preload=""></audio>|
+1 female talker |<audio src="noise/English speech noise/one_female_english.wav" controls="" preload=""></audio> |
+1 male talker |<audio src="noise/English speech noise/one_male_english.wav" controls="" preload=""></audio>|
+1 female and 1 male talkers  |<audio src="noise/English speech noise/one_female_one_male_english.wav" controls="" preload=""></audio>|
+2 female talkers  |<audio src="noise/English speech noise/two_female_english.wav" controls="" preload=""></audio>|
+2 male talkers  |<audio src="noise/English speech noise/two_female_english.wav" controls="" preload=""></audio>|
+2 male and 1 female talkers  |<audio src="noise/English speech noise/two_male_one_female_english.wav" controls="" preload=""></audio>|
 
 ## Nonspeech noise
 
