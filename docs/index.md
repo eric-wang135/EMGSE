@@ -28,19 +28,19 @@ Street noise (2)|<audio src="noise/street noise(2).wav" controls="" preload=""><
 
 ## SE Performance of EMGSE and baseline
 
-Utterance 40  : "You can see the rain curtains are wrapping."
+Utterance 40  : "The senator said goodbye to republicans on capitol hill today."
 
 Speaker       : number 5, male
 
-Noise type    : 1 English male talker (speech noise)
+Noise type    : 2 English male talkers (speech noise)
 
 Source|  SNR -11dB| SNR 4dB|
 --------------|-----|-----|
-Ground truth |<audio src="Noise/car noise.wav" controls="" preload=""></audio>|<audio src="Noise/car noise.wav" controls="" preload=""></audio>|
-Noisy |
-Enhanced(Baseline)|
-Enhanced(EMGSE)|
-Enhanced(EMGSE 28ch)|
+Ground truth |<audio src="wavfile/utter21/Spk5_Block1-Initial_0021.wav" controls="" preload=""></audio><img src="wavfile/utter40/Spk5_Block1-Initial_0021.png" alt="21_clean">|<audio src="wavfile/utter21/Spk5_Block1-Initial_0021.wav" controls="" preload=""></audio><img src="wavfile/utter40/Spk5_Block1-Initial_0021.png" alt="21_clean">|
+Noisy |<audio src="wavfile/utter21/2maleEnglish/Spk5_Block1-Initial_0021_2maleEng_-11.wav" controls="" preload=""></audio><img src="wavfile/utter21/2maleEnglish/Spk5_Block1-Initial_0021_2maleEng_-11.png" alt="21_2maleEng_noisy_-11">|<audio src="wavfile/utter21/2maleEnglish/Spk5_Block1-Initial_0021_2maleEng_4.wav" controls="" preload=""></audio><img src="wavfile/utter21/2maleEnglish/Spk5_Block1-Initial_0021_2maleEng_4.png" alt="21_2maleEng_noisy_4">|
+Enhanced(Baseline)|<audio src="wavfile/utter21/2maleEnglish/Spk5_Block1-Initial_0021_enh_base_2maleEng_-11.wav" controls="" preload=""></audio><img src="wavfile/utter21/2maleEnglish/Spk5_Block1-Initial_0021_enh_base_2maleEng_-11.png" alt="21_2maleEng_base_-11">|<audio src="wavfile/utter21/2maleEnglish/Spk5_Block1-Initial_0021_enh_base_2maleEng_4.wav" controls="" preload=""></audio><img src="wavfile/utter21/2maleEnglish/Spk5_Block1-Initial_0021_enh_base_2maleEng_4.png" alt="21_2maleEng_base_4">|
+Enhanced(EMGSE)|<audio src="wavfile/utter21/2maleEnglish/Spk5_Block1-Initial_0021_enh_emgse_2maleEng_-11.wav" controls="" preload=""></audio><img src="wavfile/utter21/2maleEnglish/Spk5_Block1-Initial_0021_enh_emgse_2maleEng_-11.png" alt="21_2maleEng_emgse_-11">|<audio src="wavfile/utter21/2maleEnglish/Spk5_Block1-Initial_0021_enh_emgse_2maleEng_4.wav" controls="" preload=""></audio><img src="wavfile/utter21/2maleEnglish/Spk5_Block1-Initial_0021_enh_emgse_2maleEng_4.png" alt="21_2maleEng_emgse_4">|
+Enhanced(EMGSE 28ch)|<audio src="wavfile/utter21/2maleEnglish/Spk5_Block1-Initial_0021_enh_emgse28_2maleEng_-11.wav" controls="" preload=""></audio><img src="wavfile/utter21/2maleEnglish/Spk5_Block1-Initial_0021_enh_emgse28_2maleEng_-11.png" alt="21_2maleEng_emgse28_-11">|<audio src="wavfile/utter21/2maleEnglish/Spk5_Block1-Initial_0021_enh_emgse28_2maleEng_4.wav" controls="" preload=""></audio><img src="wavfile/utter21/2maleEnglish/Spk5_Block1-Initial_0021_enh_emgse28_2maleEng_4.png" alt="21_2maleEng_emgse28_4">|
 
 Utterance 40 : "You can see the rain curtains are wrapping."
 
