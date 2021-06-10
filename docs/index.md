@@ -62,9 +62,11 @@ Utterance 09: "I think she just doesn't understand."
 
 Utterance 29: "She is called the ice maiden."
 
-Speaker      : number 5, male
+Speaker     : number 5, male
 
-Noise type : Car noise
+Noise type  : Car noise
+
+SNR level   : 4dB
 
 Source| Utterance 9| Utterance 29|
 --------------|-----|-----|
