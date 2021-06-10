@@ -60,7 +60,7 @@ Enhanced(EMGSE 28ch)|<audio src="wavfile/utter40/street/EMGSE28/Spk5_Block1-Init
 
 Utterance 19: "You can see the rain curtains are wrapping."
 
-Utterance 29: "You can see the rain curtains are wrapping."
+Utterance 29: "She is the ice maiden."
 
 Speaker      : number 5, male
 
@@ -68,10 +68,10 @@ Noise type : Car noise
 
 Source| Utterance 19| Utterance 29|
 --------------|-----|-----|
-Ground truth|
-Noisy|
-Enhanced(Baseline)|
-Enhanced(EMGSE)|
+Ground truth|<audio src="wavfile/utter/street/EMGSE28/Spk5_Block1-Initial_0040_enh_emgse28_street_-11.wav" controls="" preload=""></audio><img src="wavfile/utter40/Spk5_Block1-Initial_0040_enh_emgse28_street_-11.png" alt="" width="250" height="200">|<audio src="wavfile/utter29/Spk5_Block1-Initial_0029_clean.wav" controls="" preload=""></audio><img src="wavfile/utter29/Spk5_Block1-Initial_0029_clean.png" alt="" width="250" height="200">|
+Noisy|<audio src="wavfile/utter29/Spk5_Block1-Initial_0029_clean.wav" controls="" preload=""></audio><img src="wavfile/utter29/Spk5_Block1-Initial_0029_clean.png" alt="" width="250" height="200">|<audio src="wavfile/utter29/Spk5_Block1-Initial_0029_noisy_car_4.wav" controls="" preload=""></audio><img src="wavfile/utter29/Spk5_Block1-Initial_0029_noisy_car_4.png" alt="" width="250" height="200">|
+Enhanced(Baseline)|<audio src="wavfile/utter29/Spk5_Block1-Initial_0029_clean.wav" controls="" preload=""></audio><img src="wavfile/utter29/Spk5_Block1-Initial_0029_clean.png" alt="" width="250" height="200">|<audio src="wavfile/utter29/Spk5_Block1-Initial_0029_enh_base_car_4.wav" controls="" preload=""></audio><img src="wavfile/utter29/Spk5_Block1-Initial_0029_enh_base_car_4.png" alt="" width="250" height="200">|
+Enhanced(EMGSE)|<audio src="wavfile/utter29/Spk5_Block1-Initial_0029_clean.wav" controls="" preload=""></audio><img src="wavfile/utter29/Spk5_Block1-Initial_0029_clean.png" alt="" width="250" height="200">|<audio src="wavfile/utter29/Spk5_Block1-Initial_0029_enh_emgse_car_4.wav" controls="" preload=""></audio><img src="wavfile/utter29/Spk5_Block1-Initial_0029_enh_emgse_car_4.png" alt="" width="250" height="200">|
 
 
 
