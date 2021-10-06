@@ -56,26 +56,6 @@ Enhanced(SE(A))|<audio src="wavfile/utter40/street/SE(A)/Spk5_Block1-Initial_004
 Enhanced(EMGSE)|<audio src="wavfile/utter40/street/EMGSE/Spk5_Block1-Initial_0040_enh_emgse_street_-11.wav" controls="" preload=""></audio><img src="wavfile/utter40/street/EMGSE/Spk5_Block1-Initial_0040_enh_emgse_street_-11.png" alt="" width="250" height="200">|<audio src="wavfile/utter40/street/EMGSE/Spk5_Block1-Initial_0040_enh_emgse_street_4.wav" controls="" preload=""></audio><img src="wavfile/utter40/street/EMGSE/Spk5_Block1-Initial_0040_enh_emgse_street_4.png" alt="" width="250" height="200">|
 Enhanced(EMGSE cheek)|<audio src="wavfile/utter40/street/EMGSE28/Spk5_Block1-Initial_0040_enh_emgse28_street_-11.wav" controls="" preload=""></audio><img src="wavfile/utter40/street/EMGSE28/Spk5_Block1-Initial_0040_enh_emgse28_street_-11.png" alt="" width="250" height="200">|<audio src="wavfile/utter40/street/EMGSE28/Spk5_Block1-Initial_0040_enh_emgse28_street_4.wav" controls="" preload=""></audio><img src="wavfile/utter40/street/EMGSE28/Spk5_Block1-Initial_0040_enh_emgse28_street_4.png" alt="" width="250" height="200">|
 
-## The phenomenon of missing syllables in EMGSE
-
-Utterance 09: "I think she just doesn't understand."
-
-Utterance 29: "She is called the ice maiden."
-
-Speaker     : number 5, male
-
-Noise type  : Car noise
-
-SNR level   : 4dB
-
-Source| Utterance 9| Utterance 29|
---------------|-----|-----|
-Ground truth|<audio src="wavfile/utter9/Spk5_Block1-Initial_0009_clean.wav" controls="" preload=""></audio><img src="wavfile/utter9/Spk5_Block1-Initial_0009_clean.png" alt="" width="250" height="200">|<audio src="wavfile/utter29/Spk5_Block1-Initial_0029_clean.wav" controls="" preload=""></audio><img src="wavfile/utter29/Spk5_Block1-Initial_0029_clean.png" alt="" width="250" height="200">|
-Noisy|<audio src="wavfile/utter9/Spk5_Block1-Initial_0009_noisy_car_4.wav" controls="" preload=""></audio><img src="wavfile/utter9/Spk5_Block1-Initial_0009_noisy_car_4.png" alt="" width="250" height="200">|<audio src="wavfile/utter29/Spk5_Block1-Initial_0029_noisy_car_4.wav" controls="" preload=""></audio><img src="wavfile/utter29/Spk5_Block1-Initial_0029_noisy_car_4.png" alt="" width="250" height="200">|
-Enhanced(SE(A))|<audio src="wavfile/utter9/Spk5_Block1-Initial_0009_enh_base_car_4.wav" controls="" preload=""></audio><img src="wavfile/utter9/Spk5_Block1-Initial_0009_enh_base_car_4.png" alt="" width="250" height="200">|<audio src="wavfile/utter29/Spk5_Block1-Initial_0029_enh_base_car_4.wav" controls="" preload=""></audio><img src="wavfile/utter29/Spk5_Block1-Initial_0029_enh_base_car_4.png" alt="" width="250" height="200">|
-Enhanced(EMGSE)|<audio src="wavfile/utter9/Spk5_Block1-Initial_0009_enh_emgse_car_4.wav" controls="" preload=""></audio><img src="wavfile/utter9/Spk5_Block1-Initial_0009_enh_emgse_car_4.png" alt="" width="250" height="200">|<audio src="wavfile/utter29/Spk5_Block1-Initial_0029_enh_emgse_car_4.wav" controls="" preload=""></audio><img src="wavfile/utter29/Spk5_Block1-Initial_0029_enh_emgse_car_4.png" alt="" width="250" height="200">|
-
-
 
  
 <div align="center"></div>
