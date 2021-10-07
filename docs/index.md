@@ -28,7 +28,7 @@ Street noise (2)|<audio src="noise/street noise(2).wav" controls="" preload=""><
 
 ## SE Performance of EMGSE and SE(A)
 
-Utterance 40  : "The senator said goodbye to republicans on capitol hill today."
+Utterance 40  : "The senator said goodbye to republicans on capital hill today."
 
 Speaker       : number 5, male
 
