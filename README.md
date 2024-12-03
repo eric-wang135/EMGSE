@@ -9,7 +9,10 @@ For more detail please check our <a href="https://ieeexplore.ieee.org/document/9
 
 ### Setup ###
 
-Install requr
+Install the environments 
+ ``` js
+ pip install -r requirements.txt
+ ```
 
 ### Database ###
 
