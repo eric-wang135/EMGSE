@@ -9,18 +9,18 @@ For more detail please check our <a href="https://ieeexplore.ieee.org/document/9
 
 ### Setup ###
 
-Install the environments 
+You can apply our environment settings by
+
  ``` js
  pip install -r requirements.txt
  ```
 
 ### Database ###
 
-Please download the open-access databases from these websites first:
+Please download the open-access databases from these websites:
 
 1. [CSL-EMG_Array Corpus](https://www.uni-bremen.de/csl/forschung/lautlose-sprachkommunikation/csl-emg-array-corpus) 
 2. [100 noise types](http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/HuCorpus.html) (unavailable now)
-
 
 
 Please kindly cite our paper if you find this code useful.
@@ -32,4 +32,14 @@ Please kindly cite our paper if you find this code useful.
       pages={1116--1120},
       year={2022},
       organization={IEEE}
+    }
+
+If you use the CSL-EMG_Array Corpus, please also cite:
+
+    @inproceedings{diener2020csl,
+      title={CSL-EMG\_Array: An Open Access Corpus for EMG-to-Speech Conversion.},
+      author={Diener, Lorenz and Vishkasougheh, Mehrdad Roustay and Schultz, Tanja},
+      booktitle={INTERSPEECH},
+      pages={3745--3749},
+      year={2020}
     }
