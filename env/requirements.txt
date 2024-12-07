@@ -1,1 +1,11 @@
-
+librosa
+soundfile            
+numba               
+numpy         
+pandas                               
+pystoi                   
+pesq
+scipy                   
+tensorboardx                                  
+tqdm
+torch
