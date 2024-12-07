@@ -29,9 +29,9 @@ Please download the databases from these websites:
 3. Noise types used for inference in this paper are in the **doc** folder.
 
 
-### Get the results###
+### Get the results ###
 
-To generate data and reproduce the results for the ith speaker, please run the following script:
+To generate data and reproduce the results for the *i*th speaker, please run the following script:
 
 ``` js
 bash run.sh i
