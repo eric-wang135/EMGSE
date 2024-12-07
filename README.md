@@ -3,13 +3,18 @@
 The implementation of EMGSE, a neural-network-based multimodal speech enhancement system using sEMG as auxiliary data.
 
 # Introduction
-Multimodal learning has been proven to be an effective method to improve speech enhancement (SE) performance, especially in challenging situations such as low signal-to-noise ratios, speech noise, or unseen noise types. In previous studies, several types of auxiliary data have been used to construct multimodal SE systems, such as lip images, electropalatography, or electromagnetic midsagittal articulography. In this paper, we propose a novel EMGSE framework for multimodal SE, which integrates audio and facial electromyography (EMG) signals. Facial EMG is a biological signal containing articulatory movement information, which can be measured in a non-invasive way. Experimental results show that the proposed EMGSE system can achieve better performance than the audio-only SE system. The benefits of fusing EMG signals with acoustic signals for SE are notable under challenging circumstances. Furthermore, this study reveals that cheek EMG is sufficient for SE.
+Multimodal learning has been proven to be an effective method to improve speech enhancement (SE) performance, especially in challenging situations such as low signal-to-noise ratios, speech noise, or unseen noise types. In previous studies, several types of auxiliary data have been used to construct multimodal SE systems, such as lip images, electropalatography, or electromagnetic midsagittal articulography. This paper proposes a novel EMGSE framework for multimodal SE, which integrates audio and facial electromyography (EMG) signals. Facial EMG is a biological signal containing articulatory movement information, which can be measured in a non-invasive way. Experimental results show that the proposed EMGSE system can achieve better performance than the audio-only SE system. The benefits of fusing EMG signals with acoustic signals for SE are notable under challenging circumstances. Furthermore, this study reveals that cheek EMG is sufficient for SE.
 
 For more detail please check our <a href="https://ieeexplore.ieee.org/document/9747179" target="_blank">Paper</a>
 
 ### Setup ###
 
-You can apply our environment settings by
+You can apply our environmental setup in the Environment Folder using the following script.
+
+```js
+conda env create -f environment.yml
+```
+or 
 
  ``` js
  pip install -r requirements.txt
@@ -23,6 +28,15 @@ Please download the databases from these websites:
 2. [100 noise types](http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/HuCorpus.html) (unavailable now)
 3. Noise types used for inference in this paper are in the **doc** folder.
 
+
+### Get the results###
+
+To generate data and reproduce the results for the ith speaker, please run the following script:
+
+``` js
+bash run.sh i
+```
+
 Please kindly cite our paper if you find this code useful.
 
     @inproceedings{wang2022emgse,
@@ -34,7 +48,7 @@ Please kindly cite our paper if you find this code useful.
       organization={IEEE}
     }
 
-If you use the CSL-EMG_Array Corpus, please also cite:
+If you use the CSL-EMG_Array Corpus and the Ohio 100 noise types, please also cite:
 
     @inproceedings{diener2020csl,
       title={CSL-EMG\_Array: An Open Access Corpus for EMG-to-Speech Conversion.},
@@ -43,3 +57,11 @@ If you use the CSL-EMG_Array Corpus, please also cite:
       pages={3745--3749},
       year={2020}
     }
+
+    @misc{100noise,
+    author={G. Hu},
+    title={100 nonspeech environmental sounds},
+    year={2004},
+    url={http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/HuCorpus.html}
+    }
+    
