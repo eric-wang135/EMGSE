@@ -26,7 +26,7 @@ Please download the databases from these websites:
 
 1. [CSL-EMG_Array Corpus](https://www.uni-bremen.de/csl/forschung/lautlose-sprachkommunikation/csl-emg-array-corpus) 
 2. [100 noise types](http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/HuCorpus.html) (unavailable now)
-3. Noise types used for inference in this paper are in the **doc** folder.
+3. Noise types used for inference in this paper are in the **noise/noise_test** folder.
 
 
 ### Get the results ###
